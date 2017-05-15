@@ -1,0 +1,15 @@
+D:\ZIBAT CLASS\2nd_sem\Final_Project\OstSys\OstSys\bin\Debug\OstSysDatabase.mdf
+D:\ZIBAT CLASS\2nd_sem\Final_Project\OstSys\OstSys\bin\Debug\OstSysDatabase_log.ldf
+D:\ZIBAT CLASS\2nd_sem\Final_Project\OstSys\OstSys\bin\Debug\OstSys.exe.config
+D:\ZIBAT CLASS\2nd_sem\Final_Project\OstSys\OstSys\bin\Debug\OstSys.exe
+D:\ZIBAT CLASS\2nd_sem\Final_Project\OstSys\OstSys\bin\Debug\OstSys.pdb
+D:\ZIBAT CLASS\2nd_sem\Final_Project\OstSys\OstSys\obj\Debug\OstSys.exe
+D:\ZIBAT CLASS\2nd_sem\Final_Project\OstSys\OstSys\obj\Debug\OstSys.pdb
+C:\Users\Peter Lacko\Downloads\OstSys\OstSys\OstSys\bin\Debug\OstSysDatabase.mdf
+C:\Users\Peter Lacko\Downloads\OstSys\OstSys\OstSys\bin\Debug\OstSysDatabase_log.ldf
+C:\Users\Peter Lacko\Downloads\OstSys\OstSys\OstSys\bin\Debug\OstSys.exe.config
+C:\Users\Peter Lacko\Downloads\OstSys\OstSys\OstSys\bin\Debug\OstSys.exe
+C:\Users\Peter Lacko\Downloads\OstSys\OstSys\OstSys\bin\Debug\OstSys.pdb
+C:\Users\Peter Lacko\Downloads\OstSys\OstSys\OstSys\obj\Debug\OstSys.csprojResolveAssemblyReference.cache
+C:\Users\Peter Lacko\Downloads\OstSys\OstSys\OstSys\obj\Debug\OstSys.exe
+C:\Users\Peter Lacko\Downloads\OstSys\OstSys\OstSys\obj\Debug\OstSys.pdb
