@@ -7,9 +7,6 @@ using System.Web.Http;
 
 namespace OstSysWeb.Controllers
 {
-
-
-
     public class ValuesController : ApiController
     {
         // GET api/values
